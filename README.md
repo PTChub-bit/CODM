@@ -1,2 +1,46 @@
-# CODM
-game website
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Call of Duty: Mobile</title>
+</head>
+
+<body style="font-family: Arial; background-color: #111; color: white; text-align: center;">
+
+    <h1>Call of Duty: Mobile</h1>
+
+    <p>
+        Call of Duty: Mobile is a popular first-person shooter game available on mobile devices.
+        It features exciting multiplayer modes and battle royale gameplay.
+    </p>
+
+    <h2>Game Modes</h2>
+    <ul style="list-style-type: none;">
+        <li>Multiplayer</li>
+        <li>Battle Royale</li>
+        <li>Zombies Mode</li>
+        <li>Ranked Matches</li>
+    </ul>
+
+    <h2>Features</h2>
+    <p>
+        The game includes different weapons, maps, characters, and skins.
+        Players can customize their loadouts and compete with others worldwide.
+    </p>
+
+    <h2>Gallery</h2>
+    <img src="Pictures/codm1.jpg" width="250">
+    <img src="Pictures/codm2.jpg" width="250">
+    <img src="Pictures/codm3.jpg" width="250">
+
+    <h2>Why I Like It</h2>
+    <p>
+        I enjoy Call of Duty: Mobile because of its fast-paced action,
+        competitive gameplay, and fun experience with friends.
+    </p>
+
+    <footer>
+        <p>Created by: Team Mang</p>
+    </footer>
+
+</body>
+</html>
